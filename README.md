@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a **B.Tech student at IIIT Allahabad** with a passion for building scalable web applications and solving complex algorithmic problems. Currently working as an **SDE Intern at Sliverse**, where I contribute to AI-powered tools and backend development.
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
