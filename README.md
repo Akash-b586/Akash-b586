@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Akash Barwar
 
-<!--
-**Akash-b586/Akash-b586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Competitive Programmer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a **B.Tech student at IIIT Allahabad** with a passion for building scalable web applications and solving complex algorithmic problems. Currently working as an **SDE Intern at Sliverse**, where I contribute to AI-powered tools and backend development.
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Akash-b586&theme=dark&hide_border=false)
+
+</div>
+
+---
+
